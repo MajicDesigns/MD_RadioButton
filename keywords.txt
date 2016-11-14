@@ -1,0 +1,7 @@
+MD_RadioButton	KEYWORD1
+begin KEYWORD2
+read KEYWORD2
+lampTest KEYWORD2
+select KEYWORD2
+setCallback KEYWORD2
+

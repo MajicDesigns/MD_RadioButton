@@ -1,0 +1,1 @@
+Small library to allow the use of momentary push switches with LEDs to operate as user radio button style selection buttons. See the blog post at [Arduino++](https://arduinoplusplus.wordpress.com/2016/03/29/radio-buttons-in-the-real-world/ for a longer description).
